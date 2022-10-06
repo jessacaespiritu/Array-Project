@@ -67,9 +67,10 @@ echo "</tr></table>";
 	}
 	span.year{
 		color:  #ccc;
+		font-size: 50px;
 	}
 	span.name{
-		font-size: 18px;
+		font-size: 50px;
 	}
 	body{
 		margin: 0;
